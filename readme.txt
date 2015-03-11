@@ -43,7 +43,6 @@ All the link info retrieved can be stored in cache to avoid possible performance
 
 
 == Screenshots ==
-**Screenshots**
 1. Shortcode screenshot
 2. Tooltips screenshot
 
