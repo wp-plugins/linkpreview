@@ -1,7 +1,7 @@
 === LinkPreview ===
 Contributors: filipstepanov
 Donate link: 
-Tags: wp,link,preview,linkpreview
+Tags: url,link,preview,linkpreview,tooltip
 Requires at least: 3.3
 Tested up to: 4.1.1
 Stable tag: trunk
