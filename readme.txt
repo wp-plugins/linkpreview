@@ -25,7 +25,7 @@ When used through shortcodes it works the same way, just no hover needed but sta
 
 [link_preview]http://...[/link_preview]
 
-All the link info retrieved can be stored in cache to avoid to avoid possible performance issues on high traffic sites. Aside other plugin's settings in dashboard, there is also Cache time so you can specify how long to keep URL's information for future use. By using cache, you avoid intense connecting to linkpreview.net API.
+All the link info retrieved can be stored in cache to avoid possible performance issues on high traffic websites. Aside other plugin's settings in dashboard, there is Cache time setting where you can specify how long to keep URL's information for future use. By using cache, you avoid intense connecting to linkpreview.net API.
 
 
 == Installation ==
@@ -44,6 +44,8 @@ All the link info retrieved can be stored in cache to avoid to avoid possible pe
 
 == Screenshots ==
 **Screenshots**
+1. Shortcode screenshot
+2. Tooltips screenshot
 
 == Changelog ==
 
