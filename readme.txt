@@ -42,7 +42,7 @@ All the link info retrieved can be stored in cache to avoid to avoid possible pe
 
 
 == Screenshots ==
-
+**Screenshots**
 
 == Changelog ==
 
