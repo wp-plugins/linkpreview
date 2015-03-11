@@ -14,9 +14,11 @@ Preview basic link info before clicking it
 == Description ==
 
 **Tooltip**
+
 This plugin hooks on content load and scans for possible link matches. It's adding temporary attributes to those links, so when you hover them, plugin connects to free web-service at http://www.linkpreview.net and retrieve basic link info. it's using plugin's JavaScript and WordPress Ajax to deliver content on demand.
 
 **Shortcode**
+
 When used through shortcodes it works the same way, just no hover needed but static content like Facebook's URL preview will be shown. Shortcode:
 
 [link_preview]http://...[/link_preview}
@@ -33,6 +35,7 @@ All the link info retrieved can be stored in cache to avoid to avoid possible pe
 
 == Frequently asked questions ==
 **Is this plugin using any external javascript?**
+
 - You can choose between included WP jquery-ui Tooltip and Tooltipster JS that comes with a plugin
 
 
