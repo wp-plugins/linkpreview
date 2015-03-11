@@ -23,7 +23,7 @@ Tooltip feature hooks on content load and scans for possible link matches. It's 
 
 When used through shortcodes it works the same way, just no hover needed but static content like Facebook's URL preview will be shown. Shortcode:
 
-[link_preview]http://...[/link_preview}
+[link_preview]http://...[/link_preview]
 
 All the link info retrieved can be stored in cache to avoid to avoid possible performance issues on high traffic sites. Aside other plugin's settings in dashboard, there is also Cache time so you can specify how long to keep URL's information for future use. By using cache, you avoid intense connecting to linkpreview.net API.
 
@@ -33,6 +33,7 @@ All the link info retrieved can be stored in cache to avoid to avoid possible pe
 1. Upload linkpreview plugin to you WordPress blog (in the `/wp-content/plugins/` directory)
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use it as a tooltip feature, or through shortcodes
+4. Rate it if you like it :)
 
 
 == Frequently asked questions ==
