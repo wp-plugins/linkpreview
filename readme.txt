@@ -41,9 +41,6 @@ All the link info retrieved can be stored in cache to avoid to avoid possible pe
 
 == Screenshots ==
 
-1. http://www.filipstepanov.com/wp-content/uploads/2015/03/linkpreview-tooltip.jpg
-2. http://www.filipstepanov.com/wp-content/uploads/2015/03/linkpreview-shortcode.jpg
-
 
 == Changelog ==
 
