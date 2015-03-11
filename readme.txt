@@ -8,14 +8,16 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Preview basic link info before clicking it
+Preview basic SEO link info before clicking it
 
 
 == Description ==
 
+This is simple and lightweight plugin for WP. It works similar to Facebook's url preview and it's very easy to use. You can choose tooltips or shortcode feature depending on your needs.
+
 **Tooltip**
 
-This plugin hooks on content load and scans for possible link matches. It's adding temporary attributes to those links, so when you hover them, plugin connects to free web-service at http://www.linkpreview.net and retrieve basic link info. it's using plugin's JavaScript and WordPress Ajax to deliver content on demand.
+Tooltip feature hooks on content load and scans for possible link matches. It's adding temporary attributes to those links, so when you hover them, plugin connects to free web-service at http://www.linkpreview.net and retrieve basic link info. it's using plugin's JavaScript and WordPress Ajax to deliver content on demand.
 
 **Shortcode**
 
