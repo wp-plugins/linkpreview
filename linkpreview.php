@@ -21,7 +21,7 @@ define('LINKPREVIEW_REL_PATH', dirname(plugin_basename(__FILE__)).'/');
 define('LINKPREVIEW_STATIC_VIEW', plugin_dir_path(__FILE__).'/view/static.php');
 define('LINKPREVIEW_TOOLTIP', plugin_dir_path(__FILE__).'/view/tooltip.php');
 define('LINKPREVIEW_ADMIN', plugin_dir_path(__FILE__).'/view/admin.php');
-define('LINKPREVIEW_VERSION', 'v1.0.0');
+define('LINKPREVIEW_VERSION', 'v1.0.1');
 
 
 include_once(LINKPREVIEW_PATH.'includes/admin.php');
