@@ -25,7 +25,7 @@ class linkPreview {
 			if (!$json) return false;
 			$prepare = json_decode($json);
 			$source_url = parse_url($prepare->url);
-			if ($prepare->title == '' || $prepare->description == '') return false;
+			if ($prepare->title == '' && $prepare->description == '') return false;
 			$prepare->host_url = $source_url['host'];
 			$prepare->host_scheme = $source_url['scheme'];
 			if ($linkpreview_settings['linkpreview_favicon'] == 'on') {
