@@ -44,6 +44,7 @@ function linkpreview_callback() {
 	$linkPreview = new linkPreview();
 	$link = $_POST['link'];
 	$data = $linkPreview->get_url_data($link);
+	if ($data == false)  $data->description = __('broken url','linkpreview');
 	if ($data) include(LINKPREVIEW_TOOLTIP);
 	wp_die();
 }

@@ -51,9 +51,12 @@ All the link info retrieved can be stored in cache to avoid possible performance
 = 1.0.0 =
 * This is first release
 
+= 1.0.1 =
+* Added info about dead link in tooltip
+* Not displaying shortcode's view if link is dead
 
 == Upgrade notice ==
-= 1.0.0 =
-* none
+= 1.0.1 =
+* Fixes for broken links
 
 

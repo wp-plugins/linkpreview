@@ -6,7 +6,7 @@
 Plugin Name: Phee's Link Preview
 Plugin URI: http://www.filipstepanov.com/link-preview-project/wordpress-plugin/
 Description: Link preview web service with basic link information (favicon, title, image, description)
-Version: 1.0.0
+Version: 1.0.1
 Author: Filip Stepanov
 Author URI: http://www.filipstepanov.com
 */
